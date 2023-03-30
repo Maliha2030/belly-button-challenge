@@ -12,6 +12,8 @@ This challenge aimed to create a dashboard consisting of a horizontal bar chart 
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
+![image](https://user-images.githubusercontent.com/113676942/228804685-689bb950-5913-4ffd-aaca-7bdf04191200.png)
+
 3. Use sample_values as the values for the bar chart.
 
 4. Use otu_ids as the labels for the bar chart.
@@ -19,6 +21,8 @@ This challenge aimed to create a dashboard consisting of a horizontal bar chart 
 5. Use otu_labels as the hovertext for the chart.
 
 6. Create a bubble chart that displays each sample.
+
+![image](https://user-images.githubusercontent.com/113676942/228804899-1725d031-83ac-496b-abf3-751a4b24df7a.png)
 
 7. Use otu_ids for the x values.
 
