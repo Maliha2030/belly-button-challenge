@@ -51,8 +51,6 @@ function init() {
     });
 };
 
-// modified code for bar bubble chart https://github.com/JeremyTallant/belly-button-challenge/blob/main/static/js/app.js
-
 // Build the bar chart- Use sample_values as the values, Use otu_ids as the labels, Use otu_labels as the hovertext
 
 function buildBarChart(sample) {
@@ -152,3 +150,5 @@ function optionChanged(value) {
 };
 
 init()
+
+//references modified code  https://github.com/JeremyTallant/belly-button-challenge/blob/main/static/js/app.js
