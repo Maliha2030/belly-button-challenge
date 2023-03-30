@@ -40,4 +40,5 @@ This challenge aimed to create a dashboard consisting of a horizontal bar chart 
 
 14. Update all the plots when a new sample is selected. Additionally, you create any layout for the dashboard.
 
+
 References for drop down/charts modified code https://github.com/JeremyTallant/belly-button-challenge
